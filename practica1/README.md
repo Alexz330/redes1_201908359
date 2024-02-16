@@ -9,6 +9,7 @@
 ### Area Gerencia
 
 <img width="1046" alt="Captura de pantalla 2024-02-16 a la(s) 14 41 13" src="https://github.com/Alexz330/redes1_201908359/assets/72354711/0cc65afa-859b-4b84-93ff-e07050343a27">
+
 ### Area De Atencion al cliente
 
 <img width="1046" alt="Captura de pantalla 2024-02-16 a la(s) 14 44 27" src="https://github.com/Alexz330/redes1_201908359/assets/72354711/07b6c068-1a75-419c-9233-de48e0271132">
