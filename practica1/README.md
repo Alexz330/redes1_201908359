@@ -5,6 +5,7 @@
 ### Area Admin
 
 <img width="1046" alt="Captura de pantalla 2024-02-16 a la(s) 14 38 55" src="https://github.com/Alexz330/redes1_201908359/assets/72354711/afe28ccc-3c1a-4366-b8be-20b2b360fd02">
+
 ### Area Gerencia
 
 <img width="1046" alt="Captura de pantalla 2024-02-16 a la(s) 14 41 13" src="https://github.com/Alexz330/redes1_201908359/assets/72354711/0cc65afa-859b-4b84-93ff-e07050343a27">
