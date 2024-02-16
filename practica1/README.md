@@ -27,3 +27,25 @@
 
 ### Area A
 ![Captura de pantalla 2024-02-16 a la(s) 14 48 10](https://github.com/Alexz330/redes1_201908359/assets/72354711/3d0e4a77-e366-4d2b-be8a-f9eef83dd5c5)
+
+
+## comunicación entre áreas
+### AREA DE RRHH a Oficina B
+
+![Captura de pantalla 2024-02-16 a la(s) 15 29 12](https://github.com/Alexz330/redes1_201908359/assets/72354711/3be26e8f-347d-47ec-ac73-db72a46f41ee)
+
+
+## comunicación entre áreas
+
+### AREA DE CLIENTE a Oficina A
+
+![Captura de pantalla 2024-02-16 a la(s) 15 30 52](https://github.com/Alexz330/redes1_201908359/assets/72354711/d5277535-cb74-405d-92af-1e6d7f42f11b)
+
+
+## comunicación entre áreas
+### AREA DE ADMIN a Oficina C
+
+![Captura de pantalla 2024-02-16 a la(s) 15 32 05](https://github.com/Alexz330/redes1_201908359/assets/72354711/1c64dcf3-aa58-4022-a858-d35d8b7ec186)
+
+captura de un paquete ARP/ICMP
+![Captura de pantalla 2024-02-16 a la(s) 15 35 28](https://github.com/Alexz330/redes1_201908359/assets/72354711/104294c4-47fb-49ef-97c3-0952863294b1)
