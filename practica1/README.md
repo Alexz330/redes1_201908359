@@ -47,5 +47,5 @@
 
 ![Captura de pantalla 2024-02-16 a la(s) 15 32 05](https://github.com/Alexz330/redes1_201908359/assets/72354711/1c64dcf3-aa58-4022-a858-d35d8b7ec186)
 
-captura de un paquete ARP/ICMP
+## captura de un paquete ARP/ICMP
 ![Captura de pantalla 2024-02-16 a la(s) 15 35 28](https://github.com/Alexz330/redes1_201908359/assets/72354711/104294c4-47fb-49ef-97c3-0952863294b1)
