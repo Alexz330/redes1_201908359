@@ -11,8 +11,11 @@
 ### Area de RRHH
 <img width="1046" alt="Captura de pantalla 2024-02-16 a la(s) 14 45 09" src="https://github.com/Alexz330/redes1_201908359/assets/72354711/f16cf8d9-4919-47c2-ad4c-a75a3da1f9d4">
 ### Area C
+
 ![Captura de pantalla 2024-02-16 a la(s) 14 47 02](https://github.com/Alexz330/redes1_201908359/assets/72354711/8e4567cd-c55c-4a41-9ade-c3e277f345ca)
 ### Area B
+
 ![Captura de pantalla 2024-02-16 a la(s) 14 47 38](https://github.com/Alexz330/redes1_201908359/assets/72354711/2cf4b55a-0d44-4690-8dd7-3396afbb3514)
+
 ### Area A
 ![Captura de pantalla 2024-02-16 a la(s) 14 48 10](https://github.com/Alexz330/redes1_201908359/assets/72354711/3d0e4a77-e366-4d2b-be8a-f9eef83dd5c5)
