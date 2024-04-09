@@ -22,3 +22,31 @@ x = 9
 ||e0/1|192.178.0.3|/24|
 |R5-R6|Virtual| 192.178.0.1|/24|
 |VPC12|eth0| 192.178.0.4|/24|
+
+
+## Configuracion de Router 1, 2, 5
+
+### Router 1
+
+``
+enable
+conf t
+no ip domain-lookup
+hostname R1
+
+
+int se0/0
+ip add 10.0.0.1 255.255.255.252
+no shut
+exit
+
+int f0/0
+ip add 192.168.1.2 255.255.255.248
+no shut
+
+int f0/1
+ip add 192.168.2.2 255.255.255.248
+no shut
+
+do w
+``
