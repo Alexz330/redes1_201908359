@@ -932,3 +932,46 @@ Para el calculo del FLSM se han considerado 14 host por cada router.
 * **Subnet Mask**: 255.255.255.248
 * **Default Gateway**: 192.168.29.65
 * **DNS Server**: 0.0.0.0
+
+
+### PROTOCOLOS DE ENRUTAMIENTO DINAMICO 🕸👀
+
+#### QUICHE EIGRP 
+```
+router eigrp 1
+```
+```
+network 192.178.29.0 0.0.0.63
+network 192.178.29.64 0.0.0.31
+network 192.178.29.96 0.0.0.15
+network 192.178.29.112 0.0.0.15
+```
+```
+network 10.0.0.146 0.0.0.15
+network 10.0.0.50 0.0.0.15
+network 10.0.0.130 0.0.0.15
+network 10.0.0.198 0.0.0.15
+```
+```
+no auto-summary
+```
+
+#### PETEN EIGRP 
+```
+router eigrp 1
+```
+```
+network 192.158.29.0
+network 192.158.29.32
+network 192.158.29.64
+```
+```
+network 10.0.0.114 0.0.0.15
+network 10.0.0.145 0.0.0.15
+network 10.0.0.82 0.0.0.15
+network 10.0.0.50 0.0.0.15
+
+```
+```
+no auto-summary
+```
