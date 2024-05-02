@@ -975,3 +975,50 @@ network 10.0.0.50 0.0.0.15
 ```
 no auto-summary
 ```
+
+### ESCUINTLA OSPF
+```
+router ospf 2
+
+network 192.148.29.0 0.0.0.31 area 1
+network 192.148.29.32 0.0.0.7 area 1
+
+network 10.0.0.2 0.0.0.15 area 1
+network 	10.0.0.65 0.0.0.15 area 1
+network 	10.0.0.81 0.0.0.15 area 1
+network 10.0.0.97 0.0.0.15 area 1
+
+do show ip protocol
+do show ip route
+```
+
+### JUTIAPA OSPF
+```
+router ospf 2
+
+network 192.168.29.0 0.0.0.31 area 1
+network 192.168.29.32 0.0.0.15 area 1
+network 192.168.29.48 0.0.0.15 area 1
+network 192.168.29.64 0.0.0.7 area 1
+
+network 10.0.0.113 0.0.0.15 area 1
+network 	10.0.0.66 0.0.0.15 area 1
+network 	10.0.0.129 0.0.0.15 area 1
+network 10.0.0.34 0.0.0.15 area 1
+
+do show ip protocol
+do show ip route
+```
+
+### CENTRAL OSPF
+```
+router ospf 2
+
+network 10.0.0.1 0.0.0.15 area 1
+network 	10.0.0.17 0.0.0.15 area 1
+network 	10.0.0.33 0.0.0.15 area 1
+network 10.0.0.49 0.0.0.15 area 1
+
+do show ip protocol
+do show ip route
+```
